@@ -1,11 +1,11 @@
 const settings = {
-  packname: 'Saifii-MD',
+  packname: 'SK-OWNER',
   author: '‎',
-  botName: "Saifii-MD",
-  botOwner: 'Saifii', // Your name
-  ownerNumber: '923300351670', //Set your number here without + symbol, just add country code & number without any space
+  botName: "SK-OWNER",
+  botOwner: 'SK', // Your name
+  ownerNumber: '923150056933', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
-  commandMode: "public",
+  commandMode: "private",
   maxStoreMessages: 20, 
   storeWriteInterval: 10000,
   description: "This is a bot for managing group commands and automating tasks.",
